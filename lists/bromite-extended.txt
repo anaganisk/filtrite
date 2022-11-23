@@ -35,3 +35,5 @@ https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitt
 
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
